@@ -9,10 +9,7 @@ Complete the following instructions
 */
 
 // your code below //
-let sum = 0
-const variableOne = 10
-const variableTwo = 20
-const variableThree = 30
+
 
 console.log('The initial value of sum is :', sum)
 console.log('variableOne is equal to :', variableOne)

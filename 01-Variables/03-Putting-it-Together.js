@@ -13,8 +13,6 @@ Complete the following steps:
 */
 
 // your code below //
-const firstName = 'John'
-const lastName = 'Smith'
 
 
 // once you have declared your variables, run your file. You should see the final greetings below in the console below 

@@ -12,13 +12,7 @@ Declare 7 variables called firstDay, secondDay, thirdDay, fourthDay, fifthDay, s
 */
 
 // your code below //
-const firstDay = "Monday";
-const secondDay = "Tuesday";
-const thirdDay = "Wednesday";
-const fourthDay = "Thursday";
-const fifthDay = "Friday";
-const sixthDay = "Saturday";
-const seventhDay = "Sunday";
+
 
 // once you have declared your variables, run your file. You should see the each of the days of the week in the console below
 

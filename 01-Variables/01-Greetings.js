@@ -8,9 +8,7 @@ Declare 3 variables called morningGreeting, afternoonGreeting, and eveningGreeti
 */
 
 // your code below //
-const morningGreeting = 'Good Morning'
-const afternoonGreeting = 'Good Afternoon'
-const eveningGreeting = 'Good Evening'
+
 
 // once you have declared your variables, run your file. You should see the messages of greeting in the console below
 
